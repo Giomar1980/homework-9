@@ -1,0 +1,174 @@
+body
+{
+margin: 0;
+padding: 0;
+}
+
+section {
+
+    width: 500px;
+    height: 500px;
+    margin-top: 80px;
+    margin-left: 260px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+   border: 1px solid black;
+} 
+
+section aside {
+    height: auto;
+    background-color: black;
+    border: 1px solid white;
+}
+
+section aside {
+    background-color: black;
+}
+section aside:nth-child(2) {
+
+    background-color: white;
+}
+
+section aside:nth-child(4) {
+
+    background-color: white;
+}
+
+section aside:nth-child(6)
+{
+    background-color: white;
+}
+
+section aside:nth-child(8)
+{
+    background-color: white;
+}
+section aside:nth-child(9)
+{
+    background-color: white;
+}
+
+section aside:nth-child(11)
+{
+    background-color: white;
+}
+
+section aside:nth-child(13)
+{
+    background-color: white;
+}
+
+section aside:nth-child(15)
+{
+    background-color: white;
+}
+
+section aside:nth-child(18)
+{
+    background-color: white;
+}
+
+section aside:nth-child(20)
+{
+    background-color: white;
+}
+
+section aside:nth-child(22)
+{
+    background-color: white;
+}
+
+section aside:nth-child(24)
+{
+    background-color: white;
+}
+
+section aside:nth-child(25)
+{
+    background-color: white;
+}
+section aside:nth-child(27)
+{
+    background-color: white;
+}
+
+section aside:nth-child(29)
+{
+    background-color: white;
+}
+
+section aside:nth-child(31)
+{
+    background-color: white;
+}
+
+section aside:nth-child(34)
+{
+    background-color: white;
+}
+
+section aside:nth-child(36)
+{
+    background-color: white;
+}
+
+section aside:nth-child(38)
+{
+    background-color: white;
+}
+
+section aside:nth-child(40)
+{
+    background-color: white;
+}
+
+section aside:nth-child(41)
+{
+    background-color: white;
+}
+
+section aside:nth-child(43)
+{
+    background-color: white;
+}
+
+
+section aside:nth-child(45)
+{
+    background-color: white;
+}
+
+section aside:nth-child(47)
+{
+    background-color: white;
+}
+
+section aside:nth-child(50)
+{
+    background-color: white;
+}section aside:nth-child(52)
+{
+    background-color: white;
+}section aside:nth-child(54)
+{
+    background-color: white;
+}section aside:nth-child(56)
+{
+    background-color: white;
+}
+
+section aside:nth-child(57)
+{
+    background-color: white;
+}
+section aside:nth-child(59)
+{
+    background-color: white;
+}section aside:nth-child(61)
+{
+    background-color: white;
+}section aside:nth-child(63)
+{
+    background-color: white;
+}
